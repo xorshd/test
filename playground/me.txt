@@ -1,5 +1,1 @@
-{{#user}}
-Name: Mohd Arshad Ansari
-Skills: HTML, CSS, JS, C++ ,Java ,github ,PHP
-Email: arshadansari9181@gmail.com
-{{/user}}
+
